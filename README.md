@@ -1,8 +1,8 @@
 # Appsilon Homework
 
-![empty_db](https://github.com/kernel-sqz/appsilon-homework/blob/main/img/Zrzut%20ekranu%202023-05-2%20o%2023.12.22.png | width=100)
-![table](https://github.com/kernel-sqz/appsilon-homework/blob/main/img/Zrzut%20ekranu%202023-05-2%20o%2022.08.43.png | width=100)
-![description](https://github.com/kernel-sqz/appsilon-homework/blob/main/img/Zrzut%20ekranu%202023-05-2%20o%2022.08.31.png | width=100)
+![empty_db](https://github.com/kernel-sqz/appsilon-homework/blob/main/img/Zrzut%20ekranu%202023-05-2%20o%2023.12.22.png)
+![table](https://github.com/kernel-sqz/appsilon-homework/blob/main/img/Zrzut%20ekranu%202023-05-2%20o%2022.08.43.png)
+![description](https://github.com/kernel-sqz/appsilon-homework/blob/main/img/Zrzut%20ekranu%202023-05-2%20o%2022.08.31.png)
 
 # Description
 
