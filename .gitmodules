@@ -1,0 +1,6 @@
+[submodule "appsilon-homework-frontend"]
+	path = appsilon-homework-frontend
+	url = https://github.com/kernel-sqz/appsilon-homework-frontend
+[submodule "appsilon-homework-backend"]
+	path = appsilon-homework-backend
+	url = https://github.com/kernel-sqz/appsilon-homework-backend
